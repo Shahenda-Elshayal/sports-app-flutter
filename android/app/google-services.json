@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "340989240306",
+    "project_id": "runova-sports-app",
+    "storage_bucket": "runova-sports-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340989240306:android:58d0b574d691f27874416b",
+        "android_client_info": {
+          "package_name": "com.example.sports_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340989240306-7ti32grn81ec5nfl78cpktstofucceu2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL6U85dYnTCI0jlIbNNIhwVfKOR2MHqsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340989240306-7ti32grn81ec5nfl78cpktstofucceu2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "340989240306-mu5vs6bafct40hvnakmo7i86vnj7n39q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sportsApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
