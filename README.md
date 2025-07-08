@@ -1,16 +1,36 @@
-# sports_app
+# 🏀 Sports App Flutter
 
-A new Flutter project.
+A feature-rich mobile sports application built with **Flutter** that allows users to browse leagues, teams, players, and receive live updates via Firebase.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- 🌐 **Browse Leagues, Teams & Players**
+- 🧍‍♂️ **Player Profiles**
+- 📱 **Responsive UI**
+- 🔄 **Real-Time Data Refresh**
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter & Dart**
+- **HTTP package**
+- **Firebase Cloud Messaging**
+- **Provider / setState**
+- **animations**
+- **flutter_launcher_icons**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Getting Started
+
+1. Clone the repo  
+   `git clone https://github.com/Shahenda-Elshayal/sports-app-flutter.git`
+
+2. Install dependencies  
+   `flutter pub get`
+
+3. Run the app  
+   `flutter run`
+
+## 👩‍💻 About the Developer
+
+Shahenda Elshayal  
+[LinkedIn](https://linkedin.com/in/shahenda-elshayal)
+
