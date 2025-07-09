@@ -31,6 +31,5 @@ A feature-rich mobile sports application built with **Flutter** that allows user
 
 ## 👩‍💻 About the Developer
 
-Shahenda Elshayal  
 [LinkedIn](https://linkedin.com/in/shahenda-elshayal)
 
